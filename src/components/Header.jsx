@@ -13,9 +13,10 @@ const Header = () => {
             ....
           </h1>
           <p className="w-5/6 md:w-4/9">
-            Our digital marketing agency helps businesses grow and succeed
+            {/* Our digital marketing agency helps businesses grow and succeed
             online through a range of services including SEO, PPC, social media
-            marketing, and content creation.
+            marketing, and content creation. */}
+            ....
           </p>
           <Button
             text="Book a consultation"
