@@ -9,7 +9,8 @@ const Header = () => {
       <div className='lg:w-1/2"'>
         <div className="w-full space-y-6">
           <h1 className="w-4/4 md:w-2/3 text-5xl md:text-6xl font-medium">
-            Navigating the digital landscape for success
+            {/* Navigating the digital landscape for success */}
+            ....
           </h1>
           <p className="w-5/6 md:w-4/9">
             Our digital marketing agency helps businesses grow and succeed
